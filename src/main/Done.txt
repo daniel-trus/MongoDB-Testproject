@@ -2,11 +2,3 @@ DONE:
 
 - "MongoDBOperations" --> try-catch dodane do wszystkich metod CRUD
 - "Fields" -->  dodana metoda toDocument
--
-
-
-
-
-TO DO:
-
-- Poczytać czy ma być void -->  "public void findDocuments"
