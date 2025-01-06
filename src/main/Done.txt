@@ -1,4 +1,7 @@
 DONE:
 
+- projekt połączony z MongoDB
+- dodane metody CRUD
 - "MongoDBOperations" --> try-catch dodane do wszystkich metod CRUD
 - "Fields" -->  dodana metoda toDocument
+- 
