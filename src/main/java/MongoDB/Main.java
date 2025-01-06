@@ -8,7 +8,7 @@ public class Main {
         MongoDBConnector connector = new MongoDBConnector();
         MongoDBOperations operations = new MongoDBOperations(connector.getDatabase());
 
-        Fields fields = new Fields(1,"Daniel","Truszkowski","dan-tru@gmail.com");
+        Fields fields = new Fields(1,"Daniel","Truszkowski","dan-test@test.com");
 
         Document document = fields.toDocument();
 
